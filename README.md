@@ -1,6 +1,11 @@
 # Nishtha-Sahu
- Year - 1st Year  
- Branch - Computer Science and Enginnering (E-Commerce Technology)  
- College - VIT Bhopal University  
- About me   
-I am first year college student passionate about web development. I have learned basics of Python and some knowledge of AIML. I started coding because i love turning ideas into real websites. I'm currently learning C++. This space is where I share what I build and document my journey into tech.
+**1st Year** | Btech CSE (E-Commerce Technology)  
+**VII Bhopal University**
+---
+### About Me
+
+I'm a first-year college student passionate about web development.  
+I love turning ideas into real websites and documenting my journey into tech.
+
+ **Currently learning:** C++ | Web Development  
+ **Familiar with:** Python (Basics) | AIML (Basics)
