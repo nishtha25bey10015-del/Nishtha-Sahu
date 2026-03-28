@@ -1,6 +1,7 @@
 # Nishtha-Sahu
-**1st Year** | Btech CSE (E-Commerce Technology)  
-**VII Bhopal University**
+**1st Year**   
+**Btech CSE (E-Commerce Technology)**  
+**VIT Bhopal University**
 ---
 ### About Me
 
